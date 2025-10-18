@@ -15,4 +15,4 @@ A simple game that requires the user to guess random numbers selected by the pro
 
 ## Live Demo
 
-You can view the live project here: [Calculator]([https://github.com/Ashiltg3/calculator.git])
+You can view the live project here: [Number Guesser]([https://github.com/Ashiltg3/numberguesser.git])
